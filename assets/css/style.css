@@ -1,0 +1,36 @@
+body {
+	background: #F2F2F2;
+	
+}
+
+
+
+#bottom_menu {
+	position: fixed;
+	bottom: 0;
+	left: 15px;
+
+}
+#homepage_container {
+	position: relative;
+	height: 100%;
+
+}
+
+#space {
+	position: absolute;
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%,-50%);
+}
+
+#logo {
+	position: absolute;
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%,-18%);
+}

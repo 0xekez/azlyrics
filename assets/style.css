@@ -1,1 +1,10 @@
-qqq
+#homepage_container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+}
+body {
+	background: #F2F2F2;
+	
+}
