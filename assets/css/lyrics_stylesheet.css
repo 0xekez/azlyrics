@@ -28,8 +28,8 @@
 #image_fig {
     position: fixed;
     margin-left: 40vh;
-    transform: translate(-50%, -50%);
-    margin-bottom: 40vh;
+    transform: translate(-50%, -90%);
+    margin-bottom: 100vh;
 }
 
 #words {
